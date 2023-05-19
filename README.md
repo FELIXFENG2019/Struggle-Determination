@@ -103,7 +103,7 @@ Struggle-Dataset/
 
 ## Online Repository link
 
-* [Struggle Datasets](https://www.kaggle.com/datasets) - Link to the data repository.
+* [Struggle Datasets](https://drive.google.com/file/d/1nVwLPNVcVsvvCJDlnyYYwulmezeEPgbY/view?usp=sharing) - Link to the data repository.
 
 ## Authors
 
