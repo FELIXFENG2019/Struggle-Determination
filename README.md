@@ -101,9 +101,9 @@ Struggle-Dataset/
   - stratifiedgroupkfold.py is used to split the four-fold test splits in a [StratifiedGroupKFold](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedGroupKFold.html) method.
   - human_baseline_stats.py is used to calculate the human baseline accuracy in each of the test splits.
 
-## Online Repository link
+## Download link
 
-* [Struggle Datasets](https://drive.google.com/file/d/1nVwLPNVcVsvvCJDlnyYYwulmezeEPgbY/view?usp=sharing) - Link to the data repository.
+* [Struggle Datasets](https://drive.google.com/file/d/1nVwLPNVcVsvvCJDlnyYYwulmezeEPgbY/view?usp=sharing) - Link to download the data.
 
 ## Authors
 
