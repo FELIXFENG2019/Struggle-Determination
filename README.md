@@ -9,56 +9,56 @@ We recruited different numbers of individual participants to perform each of the
 ## Description of the data
 
 In this section, we describe how our struggle determination dataset is organised and how the data is saved in each file. Here is an overview of the dataset structure:
-
 ```
-Struggle-Dataset/
-    -annotation/
-        -pipe.csv
-        -tent.csv
-        -tent_subactions/
-            -tent_0_ass_sup.csv
-            -tent_1_ins_sta.csv
-            -tent_2_ins_sup.csv
-            -tent_3_ins_tab.csv
-            -tent_9_pla_guy.csv
-        -tower.csv
-    -Pipes-Struggle/
-        -<Pipes_VideoIDs>.MP4 e.g. 01_00_0001.MP4
-    -Tent-Struggle/
-        -<Tent_VideoIDs>.MP4 e.g. 08_02_00.MP4
-    -Tower-Struggle/
-        -<Tower_VideoIDs>.MP4 e.g. 01_00_0000.MP4
-    -extracted_frames/
-        -Pipes-Struggle/
-            -<Pipes_VideoIDs>/
-                -img_000.jpg
-                -img_001.jpg
-                -...
-        -Tent-Struggle/
-            -<Tent_VideoIDs>/
-                -img_000.jpg
-                -img_001.jpg
-                -...
-        -Tower-Struggle/
-            -<Tower_VideoIDs>/
-                -img_000.jpg
-                -img_001.jpg
-                -...
-    -splits/
-        -Pipes-Struggle/
-            -test_<num_splits>.txt
-            -train_<num_splits>.txt
-        -Tent-Struggle/
-            -test_<num_splits>.txt
-            -train_<num_splits>.txt
-        -Tower-Struggle/
-            -test_<num_splits>.txt
-            -train_<num_splits>.txt
-    -tools/
-        -build_frames.py
-        -stratifiedgroupkfold.py
-        -human_baseline_stats.py
-    -README.md
+.
+└── Struggle-Dataset/
+    ├── annotation/
+    │   ├── pipe.csv
+    │   ├── tent.csv
+    │   ├── tent_subactions/
+    │   │   ├── tent_0_ass_sup.csv
+    │   │   ├── tent_1_ins_sta.csv
+    │   │   ├── tent_2_ins_sup.csv
+    │   │   ├── tent_3_ins_tab.csv
+    │   │   └── tent_9_pla_guy.csv
+    │   └── tower.csv
+    ├── Pipes-Struggle/
+    │   └── <Pipes_VideoIDs>.MP4 e.g. 01_00_0001.MP4
+    ├── Tent-Struggle/
+    │   └── <Tent_VideoIDs>.MP4 e.g. 08_02_00.MP4
+    ├── Tower-Struggle/
+    │   └── <Tower_VideoIDs>.MP4 e.g. 01_00_0000.MP4
+    ├── extracted_frames/
+    │   ├── Pipes-Struggle/
+    │   │   └── <Pipes_VideoIDs>/
+    │   │       ├── img_000.jpg
+    │   │       ├── img_001.jpg
+    │   │       └── ...
+    │   ├── Tent-Struggle/
+    │   │   └── <Tent_VideoIDs>/
+    │   │       ├── img_000.jpg
+    │   │       ├── img_001.jpg
+    │   │       └── ...
+    │   └── Tower-Struggle/
+    │       └── <Tower_VideoIDs>/
+    │           ├── img_000.jpg
+    │           ├── img_001.jpg
+    │           └── ...
+    ├── splits/
+    │   ├── Pipes-Struggle/
+    │   │   ├── test_<num_splits>.txt
+    │   │   └── train_<num_splits>.txt
+    │   ├── Tent-Struggle/
+    │   │   ├── test_<num_splits>.txt
+    │   │   └── train_<num_splits>.txt
+    │   └── Tower-Struggle/
+    │       ├── test_<num_splits>.txt
+    │       └── train_<num_splits>.txt
+    ├── tools/
+    │   ├── build_frames.py
+    │   ├── stratifiedgroupkfold.py
+    │   └── human_baseline_stats.py
+    └── README.md
 ```
 
 ### Folder Structure
