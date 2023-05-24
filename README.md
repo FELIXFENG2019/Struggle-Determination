@@ -63,7 +63,7 @@ In this section, we describe how our struggle determination dataset is organised
 
 ### Folder Structure
 - Annotation:
-  This folder contains annotations of the EPIC-Stuggle dataset. There are three annotation files that correspond to the tasks plumbing pipes, pitching tent, and tower of Hanoi game by the names of pipes.csv, tent.csv, and tower.csv respectively. There is a folder called 'tent_subactions' which contains the annotations files by sub-actions of pitching tent task named as following:
+  This folder contains annotations of the struggle determination dataset. There are three annotation files that correspond to the tasks plumbing pipes, pitching tent, and tower of Hanoi game by the names of pipes.csv, tent.csv, and tower.csv respectively. There is a folder called 'tent_subactions' which contains the annotations files by sub-actions of pitching tent task named as following:
   - tent_0_ass_sup.csv
   - tent_1_ins_sta.csv
   - tent_2_ins_sup.csv
@@ -82,12 +82,12 @@ In this section, we describe how our struggle determination dataset is organised
 
 - Tent-Struggle:
   This folder contains a set of 10-second video segments collected from tent pitching task
-  (equivalent to the 'EPIC-Tent' dataset: https://github.com/youngkyoonjang/EPIC_Tent2019).
+  (equivalent to the 'EPIC-Tent' dataset [^1]: https://github.com/youngkyoonjang/EPIC_Tent2019).
   The subfolders correspond to the Action_annotaion dictionary as follows:
   ```
   Action_annotation = {0:'assemble support', 1:'insert stake', 2:'insert support', 3:'insert support tab', 4:'instruction', 5:'pickup/open stakebag', 6:'pickup/open supportbag', 7:'pickup/open tentbag', 8:'pickup/place ventcover', 9:'place guyline', 10:'spread tent', 11:'tie top'} 
   ```
-  The annotations of Tent-Struggle only contain actions 0, 1, 2, 3, 9 in the EPIC-Tent dataset.
+  The annotations of Tent-Struggle only contain actions 0, 1, 2, 3, 9 in the EPIC-Tent dataset [^1].
 - Pipes-Struggle:
   This folder contains a set of 10-second video segments collected from plumbing pipes task.
 - Tower-Struggle:
@@ -103,7 +103,7 @@ In this section, we describe how our struggle determination dataset is organised
 
 ## Download link
 
-* [Struggle Datasets](https://drive.google.com/file/d/1nVwLPNVcVsvvCJDlnyYYwulmezeEPgbY/view?usp=sharing) - Link to download the data.
+* [Struggle Datasets](https://drive.google.com/file/d/1nVwLPNVcVsvvCJDlnyYYwulmezeEPgbY/view?usp=sharing) - Link to download the data (zip, 28.6GB).
 
 ## Authors
 
@@ -121,3 +121,4 @@ This project is licensed under the Non-Commercial Government Licence for public 
 * Inspiration
 * etc
 
+[^1]: Y. Jang, B. Sullivan, C. Ludwig, I. D. Gilchrist, D. Damen, and W. Mayol-Cuevas. Epic-tent: An egocentric video dataset for camping tent assembly. In 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), pages 4461–4469, Los Alamitos, CA, USA, oct 2019. IEEE Computer Society.
