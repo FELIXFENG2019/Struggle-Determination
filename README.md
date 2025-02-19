@@ -107,13 +107,13 @@ In this section, we describe how our struggle determination dataset is organised
 
 ## Contributors
 
-* **Shijia Feng**
-* **Michael Wray**
-* **Brian Sullivan**
-* **Youngkyoon Jang**
-* **Casimir Ludwig**
-* **Iain Gilchrist**
-* **Walterio Mayol-Cuevas**
+* Shijia Feng
+* Michael Wray
+* Brian Sullivan
+* Youngkyoon Jang
+* Casimir Ludwig
+* Iain Gilchrist
+* Walterio Mayol-Cuevas
 
 ## License
 
