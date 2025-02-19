@@ -105,20 +105,32 @@ In this section, we describe how our struggle determination dataset is organised
 
 * [Struggle Datasets](https://drive.google.com/file/d/1nVwLPNVcVsvvCJDlnyYYwulmezeEPgbY/view?usp=sharing) - Link to download the data (zip, 28.6GB).
 
-## Authors
+## Contributors
 
-* **authorname** - *Initial work* - [shashvatshah9](https://github.com/shashvatshah9)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Shijia Feng**
+* **Michael Wray**
+* **Brian Sullivan**
+* **Youngkyoon Jang**
+* **Casimir Ludwig**
+* **Iain Gilchrist**
+* **Walterio Mayol-Cuevas**
 
 ## License
 
 This project is licensed under the Non-Commercial Government Licence for public sector information, found [here](https://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/version/2/).
 
-## Acknowledgments
+## Citation to this work
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+```
+@misc{feng2024strugglingdatasetbaselinesstruggle,
+      title={Are you Struggling? Dataset and Baselines for Struggle Determination in Assembly Videos}, 
+      author={Shijia Feng and Michael Wray and Brian Sullivan and Youngkyoon Jang and Casimir Ludwig and Iain Gilchrist and Walterio Mayol-Cuevas},
+      year={2024},
+      eprint={2402.11057},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2402.11057}, 
+}
+```
 
 [^1]: Y. Jang, B. Sullivan, C. Ludwig, I. D. Gilchrist, D. Damen, and W. Mayol-Cuevas. Epic-tent: An egocentric video dataset for camping tent assembly. In 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), pages 4461–4469, Los Alamitos, CA, USA, oct 2019. IEEE Computer Society.
