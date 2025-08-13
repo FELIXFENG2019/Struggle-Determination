@@ -113,7 +113,7 @@ In this section, we describe how our struggle determination dataset is organised
 * Youngkyoon Jang
 * Casimir Ludwig
 * Iain Gilchrist
-* Walterio Mayol-Cuevas
+* Walterio Mayol-Cuevas (Corresponding Author)
 
 ## License
 
@@ -131,6 +131,16 @@ This project is licensed under the Non-Commercial Government Licence for public 
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2402.11057}, 
 }
+
+@article{feng2025you,
+  title={Are you struggling? dataset and baselines for struggle determination in assembly videos},
+  author={Feng, Shijia and Wray, Michael and Sullivan, Brian and Jang, Youngkyoon and Ludwig, Casimir and Gilchrist, Iain and Mayol-Cuevas, Walterio},
+  journal={International Journal of Computer Vision},
+  pages={1--38},
+  year={2025},
+  publisher={Springer}
+}
 ```
 
 [^1]: Y. Jang, B. Sullivan, C. Ludwig, I. D. Gilchrist, D. Damen, and W. Mayol-Cuevas. Epic-tent: An egocentric video dataset for camping tent assembly. In 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), pages 4461–4469, Los Alamitos, CA, USA, oct 2019. IEEE Computer Society.
+
