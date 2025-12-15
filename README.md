@@ -104,12 +104,11 @@ In this section, we describe how our struggle determination dataset is organised
 ## Download link
 
 * **Google Drive** (International)
-    * [Struggle Datasets (.zip)](https://drive.google.com/file/d/1nVwLPNVcVsvvCJDlnyYYwulmezeEPgbY/view?usp=sharing)
+    * [Struggle-Dataset (.zip)](https://drive.google.com/file/d/1nVwLPNVcVsvvCJDlnyYYwulmezeEPgbY/view?usp=sharing)
     * **Size:** 28.6 GB
 * **Baidu NetDisk / 百度网盘** (Mainland China)
     * [Struggle-Dataset.tar.gz](https://pan.baidu.com/s/1apgIudPZGAWqSwgKu1ashw?pwd=2d8k)
     * **Size:** 28.4 GB
-    * **Access Code:** `2d8k`
 
 ## Contributors
 
@@ -149,5 +148,6 @@ This project is licensed under the Non-Commercial Government Licence for public 
 ```
 
 [^1]: Y. Jang, B. Sullivan, C. Ludwig, I. D. Gilchrist, D. Damen, and W. Mayol-Cuevas. Epic-tent: An egocentric video dataset for camping tent assembly. In 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), pages 4461–4469, Los Alamitos, CA, USA, oct 2019. IEEE Computer Society.
+
 
 
