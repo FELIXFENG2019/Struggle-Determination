@@ -1,4 +1,5 @@
 # Struggle Determination Datasets
+**This is the initial struggle determination dataset proposed in the paper: [Are you Struggling? Dataset and Baselines for Struggle Determination in Assembly Videos](https://link.springer.com/article/10.1007/s11263-025-02559-4)**
 
 Struggle determination is an essential part of the project, enabling the wearable assistive intelligent system to detect struggle actions during the egocentric view of hand-object interactions and offer appropriate instructional advice to help the user. We created three datasets in the tasks (both indoors and outdoors) including assembling plumbing pipes, tent pitching, and tower of Hanoi game, named respectively as Pipes-Struggle, Tent-Struggle, and Tower-Struggle. 
 
@@ -149,6 +150,7 @@ This project is licensed under the Non-Commercial Government Licence for public 
 ```
 
 [^1]: Y. Jang, B. Sullivan, C. Ludwig, I. D. Gilchrist, D. Damen, and W. Mayol-Cuevas. Epic-tent: An egocentric video dataset for camping tent assembly. In 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), pages 4461–4469, Los Alamitos, CA, USA, oct 2019. IEEE Computer Society.
+
 
 
 
