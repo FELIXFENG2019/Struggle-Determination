@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# downloaded data (keep it outside the repo or ignore it here)
+Pipes-Struggle/
+Tent-Struggle/
+Tower-Struggle/
+extracted_frames/
+*.MP4
+*.mp4
+*.zip
+*.tar.gz
