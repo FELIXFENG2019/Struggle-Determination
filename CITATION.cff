@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use the Struggle Determination datasets, please cite the paper below."
+title: "Struggle Determination Datasets"
+authors:
+  - family-names: Feng
+    given-names: Shijia
+  - family-names: Wray
+    given-names: Michael
+  - family-names: Sullivan
+    given-names: Brian
+  - family-names: Jang
+    given-names: Youngkyoon
+  - family-names: Ludwig
+    given-names: Casimir
+  - family-names: Gilchrist
+    given-names: Iain
+  - family-names: Mayol-Cuevas
+    given-names: Walterio
+license: CC-BY-NC-4.0
+repository-code: "https://github.com/FELIXFENG2019/Struggle-Determination"
+url: "https://huggingface.co/datasets/Shijia2025/Struggle-Dataset"
+keywords:
+  - struggle determination
+  - egocentric video
+  - assembly
+  - video understanding
+  - computer vision
+preferred-citation:
+  type: article
+  title: "Are you Struggling? Dataset and Baselines for Struggle Determination in Assembly Videos"
+  authors:
+    - family-names: Feng
+      given-names: Shijia
+    - family-names: Wray
+      given-names: Michael
+    - family-names: Sullivan
+      given-names: Brian
+    - family-names: Jang
+      given-names: Youngkyoon
+    - family-names: Ludwig
+      given-names: Casimir
+    - family-names: Gilchrist
+      given-names: Iain
+    - family-names: Mayol-Cuevas
+      given-names: Walterio
+  journal: "International Journal of Computer Vision"
+  publisher:
+    name: Springer
+  year: 2025
+  doi: "10.1007/s11263-025-02559-4"

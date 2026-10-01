@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+# only needed for tools/build_frames.py
+opencv-python
+tqdm
